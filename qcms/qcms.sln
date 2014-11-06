@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qcms", "qcms.vcxproj", "{E0A62837-E527-67B5-5ED9-1D62DF73FF13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0A62837-E527-67B5-5ED9-1D62DF73FF13}.Release|x64.ActiveCfg = Release|x64
+		{E0A62837-E527-67B5-5ED9-1D62DF73FF13}.Release|x64.Build.0 = Release|x64
+		{E0A62837-E527-67B5-5ED9-1D62DF73FF13}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E0A62837-E527-67B5-5ED9-1D62DF73FF13}.Debug|Win32.Build.0 = Debug|Win32
+		{E0A62837-E527-67B5-5ED9-1D62DF73FF13}.Debug|x64.ActiveCfg = Debug|x64
+		{E0A62837-E527-67B5-5ED9-1D62DF73FF13}.Debug|x64.Build.0 = Debug|x64
+		{E0A62837-E527-67B5-5ED9-1D62DF73FF13}.Release|Win32.ActiveCfg = Release|Win32
+		{E0A62837-E527-67B5-5ED9-1D62DF73FF13}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

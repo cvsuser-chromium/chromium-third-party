@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "modp_b64", "modp_b64.vcxproj", "{DD29EC62-7A2E-55E9-34D8-8C3ABB23F806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|Win32 = Debug|Win32
+		Release|x64 = Release|x64
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD29EC62-7A2E-55E9-34D8-8C3ABB23F806}.Debug|x64.ActiveCfg = Debug|x64
+		{DD29EC62-7A2E-55E9-34D8-8C3ABB23F806}.Debug|x64.Build.0 = Debug|x64
+		{DD29EC62-7A2E-55E9-34D8-8C3ABB23F806}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DD29EC62-7A2E-55E9-34D8-8C3ABB23F806}.Debug|Win32.Build.0 = Debug|Win32
+		{DD29EC62-7A2E-55E9-34D8-8C3ABB23F806}.Release|x64.ActiveCfg = Release|x64
+		{DD29EC62-7A2E-55E9-34D8-8C3ABB23F806}.Release|x64.Build.0 = Release|x64
+		{DD29EC62-7A2E-55E9-34D8-8C3ABB23F806}.Release|Win32.ActiveCfg = Release|Win32
+		{DD29EC62-7A2E-55E9-34D8-8C3ABB23F806}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

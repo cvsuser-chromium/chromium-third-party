@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lzma_sdk", "lzma_sdk.vcxproj", "{EB623362-DCFF-9AC6-8E20-0A47C1F8FD0E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lzma_sdk64", "lzma_sdk64.vcxproj", "{A682D444-8A3E-4AD5-F93B-C0B95BD456AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A682D444-8A3E-4AD5-F93B-C0B95BD456AB}.Release|x64.ActiveCfg = Release|x64
+		{A682D444-8A3E-4AD5-F93B-C0B95BD456AB}.Release|x64.Build.0 = Release|x64
+		{A682D444-8A3E-4AD5-F93B-C0B95BD456AB}.Debug|Win32.ActiveCfg = Debug|x64
+		{A682D444-8A3E-4AD5-F93B-C0B95BD456AB}.Debug|Win32.Build.0 = Debug|x64
+		{A682D444-8A3E-4AD5-F93B-C0B95BD456AB}.Debug|x64.ActiveCfg = Debug|x64
+		{A682D444-8A3E-4AD5-F93B-C0B95BD456AB}.Debug|x64.Build.0 = Debug|x64
+		{A682D444-8A3E-4AD5-F93B-C0B95BD456AB}.Release|Win32.ActiveCfg = Release|x64
+		{A682D444-8A3E-4AD5-F93B-C0B95BD456AB}.Release|Win32.Build.0 = Release|x64
+		{EB623362-DCFF-9AC6-8E20-0A47C1F8FD0E}.Release|x64.ActiveCfg = Release|x64
+		{EB623362-DCFF-9AC6-8E20-0A47C1F8FD0E}.Release|x64.Build.0 = Release|x64
+		{EB623362-DCFF-9AC6-8E20-0A47C1F8FD0E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EB623362-DCFF-9AC6-8E20-0A47C1F8FD0E}.Debug|Win32.Build.0 = Debug|Win32
+		{EB623362-DCFF-9AC6-8E20-0A47C1F8FD0E}.Debug|x64.ActiveCfg = Debug|x64
+		{EB623362-DCFF-9AC6-8E20-0A47C1F8FD0E}.Debug|x64.Build.0 = Debug|x64
+		{EB623362-DCFF-9AC6-8E20-0A47C1F8FD0E}.Release|Win32.ActiveCfg = Release|Win32
+		{EB623362-DCFF-9AC6-8E20-0A47C1F8FD0E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

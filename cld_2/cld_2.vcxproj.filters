@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\internal">
+      <UniqueIdentifier>{1D4CEA7C-B637-77CF-7A24-85ABD36F82A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\public">
+      <UniqueIdentifier>{0D2511BD-044F-C35F-ECCE-845899961E41}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cld_2.gyp"/>
+    <ClInclude Include="src\internal\utf8scannot_lettermarkspecial.h">
+      <Filter>src\internal</Filter>
+    </ClInclude>
+    <ClCompile Include="src\internal\cld2_generated_quadchrome0715.cc">
+      <Filter>src\internal</Filter>
+    </ClCompile>
+    <ClInclude Include="src\internal\debug.h">
+      <Filter>src\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="src\internal\utf8prop_lettermarkscriptnum.h">
+      <Filter>src\internal</Filter>
+    </ClInclude>
+    <ClCompile Include="src\internal\generated_language.cc">
+      <Filter>src\internal</Filter>
+    </ClCompile>
+    <ClInclude Include="src\internal\fixunicodevalue.h">
+      <Filter>src\internal</Filter>
+    </ClInclude>
+    <ClCompile Include="src\internal\compact_lang_det.cc">
+      <Filter>src\internal</Filter>
+    </ClCompile>
+    <ClCompile Include="src\internal\cld_generated_cjk_delta_bi_4.cc">
+      <Filter>src\internal</Filter>
+    </ClCompile>
+    <ClCompile Include="src\internal\cld_generated_score_quad_octa_1024_256.cc">
+      <Filter>src\internal</Filter>
+    </ClCompile>
+    <ClInclude Include="src\internal\generated_ulscript.h">
+      <Filter>src\internal</Filter>
+    </ClInclude>
+    <ClCompile Include="src\internal\scoreonescriptspan.cc">
+      <Filter>src\internal</Filter>
+    </ClCompile>
+    <ClInclude Include="src\internal\port.h">
+      <Filter>src\internal</Filter>
+    </ClInclude>
+    <ClCompile Include="src\internal\tote.cc">
+      <Filter>src\internal</Filter>
+    </ClCompile>
+    <ClInclude Include="src\internal\scoreonescriptspan.h">
+      <Filter>src\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="src\internal\compact_lang_det_impl.h">
+      <Filter>src\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="src\internal\stringpiece.h">
+      <Filter>src\internal</Filter>
+    </ClInclude>
+    <ClCompile Include="src\internal\utf8statetable.cc">
+      <Filter>src\internal</Filter>
+    </ClCompile>
+    <ClCompile Include="src\internal\generated_distinct_bi_0.cc">
+      <Filter>src\internal</Filter>
+    </ClCompile>
+    <ClCompile Include="src\internal\cld_generated_cjk_uni_prop_80.cc">
+      <Filter>src\internal</Filter>
+    </ClCompile>
+    <ClInclude Include="src\internal\offsetmap.h">
+      <Filter>src\internal</Filter>
+    </ClInclude>
+    <ClCompile Include="src\internal\cldutil_shared.cc">
+      <Filter>src\internal</Filter>
+    </ClCompile>
+    <ClCompile Include="src\internal\cld2_generated_distinctoctachrome0604.cc">
+      <Filter>src\internal</Filter>
+    </ClCompile>
+    <ClCompile Include="src\internal\lang_script.cc">
+      <Filter>src\internal</Filter>
+    </ClCompile>
+    <ClInclude Include="src\internal\compact_lang_det_hint_code.h">
+      <Filter>src\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="src\internal\cldutil_shared.h">
+      <Filter>src\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="src\internal\generated_language.h">
+      <Filter>src\internal</Filter>
+    </ClInclude>
+    <ClCompile Include="src\internal\cldutil.cc">
+      <Filter>src\internal</Filter>
+    </ClCompile>
+    <ClInclude Include="src\internal\langspan.h">
+      <Filter>src\internal</Filter>
+    </ClInclude>
+    <ClCompile Include="src\internal\generated_entities.cc">
+      <Filter>src\internal</Filter>
+    </ClCompile>
+    <ClInclude Include="src\internal\cld2tablesummary.h">
+      <Filter>src\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="src\internal\getonescriptspan.h">
+      <Filter>src\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="src\internal\integral_types.h">
+      <Filter>src\internal</Filter>
+    </ClInclude>
+    <ClCompile Include="src\internal\getonescriptspan.cc">
+      <Filter>src\internal</Filter>
+    </ClCompile>
+    <ClCompile Include="src\internal\debug_empty.cc">
+      <Filter>src\internal</Filter>
+    </ClCompile>
+    <ClInclude Include="src\internal\utf8statetable.h">
+      <Filter>src\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="src\internal\tote.h">
+      <Filter>src\internal</Filter>
+    </ClInclude>
+    <ClCompile Include="src\internal\cld2_generated_cjk_compatible.cc">
+      <Filter>src\internal</Filter>
+    </ClCompile>
+    <ClInclude Include="src\internal\cldutil.h">
+      <Filter>src\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="src\internal\utf8repl_lettermarklower.h">
+      <Filter>src\internal</Filter>
+    </ClInclude>
+    <ClCompile Include="src\internal\compact_lang_det_hint_code.cc">
+      <Filter>src\internal</Filter>
+    </ClCompile>
+    <ClInclude Include="src\internal\lang_script.h">
+      <Filter>src\internal</Filter>
+    </ClInclude>
+    <ClCompile Include="src\internal\fixunicodevalue.cc">
+      <Filter>src\internal</Filter>
+    </ClCompile>
+    <ClCompile Include="src\internal\cld2_generated_deltaoctachrome0614.cc">
+      <Filter>src\internal</Filter>
+    </ClCompile>
+    <ClCompile Include="src\internal\generated_ulscript.cc">
+      <Filter>src\internal</Filter>
+    </ClCompile>
+    <ClCompile Include="src\internal\compact_lang_det_impl.cc">
+      <Filter>src\internal</Filter>
+    </ClCompile>
+    <ClCompile Include="src\internal\offsetmap.cc">
+      <Filter>src\internal</Filter>
+    </ClCompile>
+    <ClInclude Include="src\public\encodings.h">
+      <Filter>src\public</Filter>
+    </ClInclude>
+    <ClInclude Include="src\public\compact_lang_det.h">
+      <Filter>src\public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
