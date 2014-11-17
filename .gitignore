@@ -40,6 +40,8 @@ Session.vim
 tags
 Thumbs.db
 v8.log
+/angle_dx11
+/ffmpeg
 /hunspell_dictionaries
 /icu
 /libjingle
