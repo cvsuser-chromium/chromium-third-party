@@ -1,23 +1,23 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "khronos_headers", "khronos_headers.vcxproj", "{4A27F1DF-64C8-D2E5-472E-77D4A78E2243}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "khronos_headers", "khronos_headers.vcxproj", "{3BE15279-8569-4913-D56A-323649CD9B0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Release|x64 = Release|x64
-		Debug|Win32 = Debug|Win32
 		Debug|x64 = Debug|x64
+		Debug|Win32 = Debug|Win32
+		Release|x64 = Release|x64
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4A27F1DF-64C8-D2E5-472E-77D4A78E2243}.Release|x64.ActiveCfg = Release|x64
-		{4A27F1DF-64C8-D2E5-472E-77D4A78E2243}.Release|x64.Build.0 = Release|x64
-		{4A27F1DF-64C8-D2E5-472E-77D4A78E2243}.Debug|Win32.ActiveCfg = Debug|Win32
-		{4A27F1DF-64C8-D2E5-472E-77D4A78E2243}.Debug|Win32.Build.0 = Debug|Win32
-		{4A27F1DF-64C8-D2E5-472E-77D4A78E2243}.Debug|x64.ActiveCfg = Debug|x64
-		{4A27F1DF-64C8-D2E5-472E-77D4A78E2243}.Debug|x64.Build.0 = Debug|x64
-		{4A27F1DF-64C8-D2E5-472E-77D4A78E2243}.Release|Win32.ActiveCfg = Release|Win32
-		{4A27F1DF-64C8-D2E5-472E-77D4A78E2243}.Release|Win32.Build.0 = Release|Win32
+		{3BE15279-8569-4913-D56A-323649CD9B0C}.Debug|x64.ActiveCfg = Debug|x64
+		{3BE15279-8569-4913-D56A-323649CD9B0C}.Debug|x64.Build.0 = Debug|x64
+		{3BE15279-8569-4913-D56A-323649CD9B0C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3BE15279-8569-4913-D56A-323649CD9B0C}.Debug|Win32.Build.0 = Debug|Win32
+		{3BE15279-8569-4913-D56A-323649CD9B0C}.Release|x64.ActiveCfg = Release|x64
+		{3BE15279-8569-4913-D56A-323649CD9B0C}.Release|x64.Build.0 = Release|x64
+		{3BE15279-8569-4913-D56A-323649CD9B0C}.Release|Win32.ActiveCfg = Release|Win32
+		{3BE15279-8569-4913-D56A-323649CD9B0C}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
